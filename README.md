@@ -18,3 +18,5 @@ An interactive, dark-themed personal portfolio website featuring a smooth, 60fps
 - JavaScript (Vanilla, RequestAnimationFrame Easing)
 - HTML5 Canvas API
 
+- link--https://resume-rq7e.onrender.com/
+
