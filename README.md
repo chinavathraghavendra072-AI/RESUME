@@ -17,3 +17,4 @@ An interactive, dark-themed personal portfolio website featuring a smooth, 60fps
 - HTML5 / CSS3 (Glassmorphism & Flexbox/Grid)
 - JavaScript (Vanilla, RequestAnimationFrame Easing)
 - HTML5 Canvas API
+
